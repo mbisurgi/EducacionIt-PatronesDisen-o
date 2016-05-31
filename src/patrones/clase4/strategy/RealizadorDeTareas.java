@@ -20,8 +20,6 @@ public class RealizadorDeTareas {
     }
 }
 
-//PruebaCambio
-
 //Definir una estrategia en funciones con caracteristicas similares
 abstract class ExecutionMode {
     public abstract void run(List<ITask> tasks);
